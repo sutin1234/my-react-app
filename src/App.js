@@ -11,6 +11,9 @@ class App extends Component {
           <p>
             Deploy React App to Netlify Hosting
         </p>
+          <p>
+            Deploy Automatic when github Committed
+        </p>
         </header>
       </div>
     )
